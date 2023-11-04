@@ -1,0 +1,22 @@
+{
+    "articles":[
+        {
+            "title": "welcom to the site",
+            "author": "Shayan",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque",
+            "id": "1"
+        },
+        {
+            "title": "5 react tips for beginners",
+            "author": "Seraj",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque",
+            "id": "2"
+        },
+        {
+            "title": "vsCode best packages",
+            "author": "Shayan Seraj",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Egestas purus viverra accumsan in nisl nisi Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque",
+            "id": "3"
+        }
+    ]
+}
